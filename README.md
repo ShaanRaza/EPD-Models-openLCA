@@ -23,11 +23,4 @@ clients such as **MSSL Group** and **Raymond**.
 - Integrated datasets from EXIOBASE and Ecoinvent to improve data accuracy.
 - Automated parts of the data import/export process to minimize manual effort.
 
----
 
-## Screenshots
-*(Add images inside `/screenshots` folder and embed them here)*
-
-```markdown
-![Workflow](screenshots/workflow_example.png)
-![Sample EPD Output](screenshots/epd_sample.png)
